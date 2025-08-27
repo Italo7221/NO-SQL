@@ -1,0 +1,37 @@
+[
+    {
+        "produtos"  :    {
+            "prod123"   :   "Royal Enfield Hunter 350",
+            "prod124"   :    "Honda CB650R",
+            "prod125"   :   "Yamaha MT-03"
+        }
+    },
+    {
+        "vendedor"  :   {
+            "vend456"   :   "Wilson",
+            "vend457"   :   "Weverton",
+            "vend458"   :   "Wesley"
+        }
+    },
+    {
+        "preco"  :   {
+            "preco789"  :   "19990.00",
+            "preco2"    :   "32650.00",    
+            "preco1"    :   "58270.00"    
+        }
+    },
+    {
+        "imagemProdutos"    :   {
+                "imagem2"   :   "<img src='img/1.webp'width: 500px>",
+                "imagem3"   :   "<img src='img/2.webp'width: 500px>",
+                "imagem4"    :   "<img src='img/3.webp'width: 500px>"
+        }
+    },
+    {
+        "cliente"   :   {
+            "clin1"    :    "joão",
+            "clin2"    :    "pedro",
+            "clin3"    :    "thiago"
+        }
+    }
+]
